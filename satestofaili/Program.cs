@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using System.ComponentModel.Design;
+﻿using System.ComponentModel.Design;
 
 Console.WriteLine("Please write array size");
 var x = Convert.ToInt32(Console.ReadLine());
@@ -22,8 +21,6 @@ foreach (var number in arr1)
 }
 int[] evenArray = evenNumbers.ToArray();
 int[] oddArray = oddNumbers.ToArray();
-
-// Display the results
 Console.WriteLine("Even numbers:");
 foreach (var even in evenArray)
 {
