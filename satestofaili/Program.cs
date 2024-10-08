@@ -9,7 +9,9 @@ class Program
     {
         Task1();
         Task2();
+        Task3();
         Task4();
+        
     }
 
     static void Task1()
@@ -141,7 +143,36 @@ class Program
             Console.WriteLine($"Name: {contact.Key}, Phone: {contact.Value}");
         }
     }
+    static void Task3()
+    {
+        {
+            Console.WriteLine("Enter the number of elements:");
+            int n = int.Parse(Console.ReadLine());
 
+            Console.WriteLine("Enter the elements (space-separated):");
+            var input = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+
+
+            var counts = input.GroupBy(x => x)
+                              .Select(g => new { Value = g.Key, Count = g.Count() })
+                              .ToList();
+
+         
+            int totalSum = input.Sum();
+
+         
+            foreach (var item in counts)
+            {
+                Console.WriteLine($"{item.Value} appears {item.Count} times sum {item.Value * item.Count}");
+            }
+
+            Console.WriteLine($"Total sum: {totalSum}");
+        }
+
+
+
+
+    }
     static void Task4()
     {
         Console.WriteLine("Please enter the number of elements in the array:");
