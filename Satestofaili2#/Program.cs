@@ -32,6 +32,7 @@ class Program
     }
 
     static void CalculateSquareAreaDifference()
+    // მოცემულია კვადრატი და კვადრატში ჩახატული წრე. ამ წრეში ჩახატულია კიდევ ერთი სხვა კვადრატი. დაწერეთ პროგრამა რომელიც იპოვის სხვაობას დიდი და პატარა კვადრატის ფართობებს შორის.
     {
         Console.WriteLine("Please enter circle radius:");
         var r = Convert.ToDouble(Console.ReadLine());
@@ -45,6 +46,7 @@ class Program
     }
 
     static void CheckJackpot()
+    // დაწერეთ პროგრამა რომელიც შეამოწმებს ამოუვიდა თუ არა იუზერს ჯეკპოტი.
     {
         List<string> Jackpotlist = new List<string>();
         Console.WriteLine("Please enter symbols (enter an empty line to finish):");
@@ -75,6 +77,7 @@ class Program
     }
 
     static void CalculateFootballPoints()
+    // დაწერეთ პროგრამა რომელიც დათვლის ჯამში რამდენი ქულა დააგროვა საფეხბურთო გუნდმა.
     {
         const int pointsPerWin = 3;
         const int pointsPerDraw = 1;
@@ -87,6 +90,7 @@ class Program
     }
 
     static void EmployeeEarnings()
+    // დაწერეთ პროგრამა რომელიც დათვლის თანამშრომლის შემოსავალს 1 კვირის განმავლობაში.
     {
         Console.WriteLine("Enter how many hours you have worked this week");
         int onehourpay = 10;
@@ -125,6 +129,7 @@ class Program
     }
 
     static void Improvement(List<int> hours)
+    // გიორგი მარათონისთვის ემზადება ის ყოველ დღიურად ვარჯიშობს. შეამოწმეთ აქვს თუ არა გიორგის პროგრესი ყოველ დღიურად და გამოიტანეთ იმ დღეების რაოდენობა როდესაც მან შედეგი გააუმჯობესა.
     {
         var progress = 0;
         for (int i = 1; i < hours.Count; i++)
@@ -137,6 +142,7 @@ class Program
         Console.WriteLine($"output: {progress}");
     }
     static void ElementLength()
+    // დაწერეთ პროგრამა რომელიც ამობეჭდავს N სიგრძის მქონდე ელემენტს მასივიდან.
     {
         Console.WriteLine("Please enter length of N");
         int n = int.Parse(Console.ReadLine());
