@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("satestofaili")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+127de2844c6a9c2a0eb261fba225548ee58b14df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+938991d29d8225e7eb91cbfc1fd2990b3982cad8")]
 [assembly: System.Reflection.AssemblyProductAttribute("satestofaili")]
 [assembly: System.Reflection.AssemblyTitleAttribute("satestofaili")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

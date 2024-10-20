@@ -8,6 +8,7 @@ namespace Satestofaili4_
     {
         static void Main(string[] args)
         {
+            // Task1
             // ამ ლისტში არის ჩაწერილი ობიექტები
             List<EmployeeLocal> employees = new List<EmployeeLocal>
             {
@@ -34,6 +35,21 @@ namespace Satestofaili4_
 
             
             CalculateAndDisplayEarningsAndExpenses(employees);
+            //Task 2
+            var student1 = new Student();
+            student1.StudentName = "Gurjistan";
+            Console.WriteLine("When did you start University?");
+            var StartingYear = student1.UniversityStartYear = int.Parse(Console.ReadLine());
+            student1.CalculateYearsLeft(StartingYear);
+            Console.WriteLine("Please write numbers from 1 t 4 (Math, Chemistry, English or Other)\n");
+            var ChosenSubject = student1.RandomSubject();
+            var teacher1 = new Teacher();
+            teacher1.Name = "Josefine";
+            teacher1.Status = "Married";
+            Console.WriteLine($"Teacher name {teacher1.Name} {teacher1.CheckSubject(ChosenSubject)}\n");
+
+
+
         }
 
         public static void CalculateAndDisplayEarningsAndExpenses(List<EmployeeLocal> employees)

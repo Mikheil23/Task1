@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Satestofaili5#/1.0.0": {
+        "runtime": {
+          "Satestofaili5#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Satestofaili5#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
