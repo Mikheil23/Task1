@@ -1,0 +1,15 @@
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\bin\Debug\net8.0\Satestofaili6#.exe
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\bin\Debug\net8.0\Satestofaili6#.deps.json
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\bin\Debug\net8.0\Satestofaili6#.runtimeconfig.json
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\bin\Debug\net8.0\Satestofaili6#.dll
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\bin\Debug\net8.0\Satestofaili6#.pdb
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.AssemblyInfoInputs.cache
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.AssemblyInfo.cs
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.csproj.CoreCompileInputs.cache
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.sourcelink.json
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.dll
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\refint\Satestofaili6#.dll
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.pdb
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\Satestofaili6#.genruntimeconfig.cache
+C:\Users\MYCOMPUTER\source\repos\satestofaili\Satestofaili6#\obj\Debug\net8.0\ref\Satestofaili6#.dll
